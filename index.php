@@ -3,7 +3,7 @@
 	  $slider = "full";	
 	  $name = "home";
 ?>
-
+laptop
 <?php 
 	if ($lang == "tr") {
 	  include("includes/layouts/header.php");
