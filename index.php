@@ -13,4 +13,3 @@
 	  include("../includes/layouts/footer.php");
 	  } 
 ?>       
-<p>ss</p>
