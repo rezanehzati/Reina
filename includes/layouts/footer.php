@@ -31,8 +31,8 @@
 					</svg>
 					<a href="#" class="social-button facebook"><i class="fa fa-facebook"></i></a><a href="#" class="social-button twitter"><i class="fa fa-twitter"></i></a>
 					<div class="logo-footer">
-					<img alt="Reina logo" title="Reina" src="../img/logo/logo2.png"/>
-					<img alt="Yaşam logo" title="Yaşam" src="../img/logo/logo3.png"/>
+					<img alt="Reina logo" title="Reina" src="img/logo/logo2.png"/>
+					<img alt="Yaşam logo" title="Yaşam" src="img/logo/logo3.png"/>
 	                </div>
                     <p class="reza-sign" >Powered by Reza Nehzati</p>                   
                 </div>
